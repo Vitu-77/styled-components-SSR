@@ -1,7 +1,7 @@
 
 
 ---
-<h1 text-align="center">Server Side Rendering - Styled Components</h1>
+<h1 Server Side Rendering - Styled Components
 ---
 
 ## Sobre
