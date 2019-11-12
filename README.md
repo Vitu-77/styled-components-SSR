@@ -1,7 +1,8 @@
 
+
 ---
 # Server Side Rendering - Styled Components
-
+---
 
 ## Sobre
 
